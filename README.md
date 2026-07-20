@@ -2,7 +2,7 @@
 
 Site de exposição do **Our Money**, um app mobile de finanças em família — receitas, despesas e categorias organizadas em grupos compartilhados.
 
-🔗 **Site no ar:** `https://SEU_USUARIO.github.io/our-money-site/`
+🔗 **Site no ar:** `https://raphaelgenovacal-droid.github.io/OurMoney/`
 
 ## Sobre este repositório
 
